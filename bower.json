@@ -1,0 +1,17 @@
+{
+  "name": "idea-blog-project",
+  "description": "idea-blog",
+  "main": "index.js",
+  "authors": [
+    "nagendra"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

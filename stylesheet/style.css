@@ -1,0 +1,75 @@
+/* Styles go here */
+
+li>a {
+    display: block;
+    float: left;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+nav {
+    border-radius: 20px;
+}
+
+.blog-container {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+.blog-card {
+    font-size: 0.7em;
+    margin: 2em 4em 2em 4em;
+    padding-bottom: 1em;
+    border: solid 1px;
+    border-radius: 40px;
+    background-color: darkgray
+}
+
+li>a:hover {
+    color: #ffffff;
+    background-color: red;
+}
+
+ul {
+    list-style: none;
+    background: #efefef;
+    overflow: hidden;
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #EDEAE6;
+}
+
+.container {
+    display: block;
+    background-color: white;
+    border-box: 1px solid black;
+    text-align: center;
+    margin: 20px 5em 20px 5em;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: 'Indie Flower', cursive;
+}
